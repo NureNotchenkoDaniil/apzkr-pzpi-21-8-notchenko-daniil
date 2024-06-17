@@ -330,3 +330,4 @@ Update Disease Story	PUT	api/disease_story/{id}	{
 Посиланн на репозиторій GitHub:
 https://github.com/NureNotchenkoDaniil/apzkr-pzpi-21-8-notchenko-daniil
 Посилання на функціональне тестування програмної системи:
+https://youtu.be/y1RQeCLeX9g
